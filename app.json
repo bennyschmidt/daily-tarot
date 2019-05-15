@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Daily Tarot",
+    "slug": "daily-tarot",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/img/icon.png",
+    "splash": {
+      "image": "./src/assets/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.bennyschmidt.dailytarot",
+      "supportsTablet": false
+    }
+  }
+}
