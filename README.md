@@ -1,4 +1,4 @@
-## "From React Native to the App Store"
+## From React Native to the App Store
 
 ### Daily Tarot for iPhone
 
