@@ -57,7 +57,9 @@ After completing the steps, you'll end up with an [Expo project](https://expo.io
 
 Before clicking that button, you can easily integrate TestFlight within App Store Connect if you want to invite users to a closed test to ensure everything works. When you're satisfied with the app and ready to launch to the masses, click the "Submit for Review" button and it's off to Apple for consideration on the App Store. Apple tends to be pretty strict in their review process about apps that aren't very unique or useful. With tarot being a rather saturated market, the app you actually submit might require more functionality than the one in this guide in order to get approved.
 
-Happy hacking and good luck!
+Now you know how to deploy your React Native app and distribute it on the App Store using Expo. Happy hacking and good luck!
+
+More on React Native: [React Native Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### License
 
