@@ -253,14 +253,14 @@ class Main extends Component {
                 <Card>
                   <CardFace key={animateCard.id}>
                     <TouchableCard>
-                      <CardImage source={getCardByName(`CardBack`).image} />
+                      <CardImage source={getCardByName('CardBack').image} />
                     </TouchableCard>
                   </CardFace>
                 </Card>
                 <Card>
                   <CardFace key={animateCard.id}>
                     <TouchableCard>
-                      <CardImage source={getCardByName(`CardBack`).image} />
+                      <CardImage source={getCardByName('CardBack').image} />
                     </TouchableCard>
                   </CardFace>
                 </Card>
