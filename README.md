@@ -1,10 +1,3 @@
-
-#### Try it on your iPhone with Expo:
-
-##### [https://expo.io/@bennyschmidt/daily-tarot](https://expo.io/@bennyschmidt/daily-tarot)
-
------
-
 ## From React Native to the App Store
 
 ### Daily Tarot for iPhone
